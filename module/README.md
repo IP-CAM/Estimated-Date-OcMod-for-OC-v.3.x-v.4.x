@@ -11,9 +11,9 @@ Compatible with OpenCart 3.x versions.
     - off days due to defined holidays.
     - day numbers required to handle the order by the store.
     - day numbers (or period, e.g. `3-5`) required to delivery the order by the service.
-* Multilingual customer message.
+* Multilingual estimated date information block.
 * Estimate date info on the *product*, *checkout* pages and in the customer *emails*.
-* Custom placement of the info block by using the [jQuery selectors](https://api.jquery.com/category/selectors/).
+* Using the [jQuery selectors](https://api.jquery.com/category/selectors/) to custom placement the estimated date block.
 * Custom date format.
 * Powered by OpenCart Events System.
 * Does not modify system files.
