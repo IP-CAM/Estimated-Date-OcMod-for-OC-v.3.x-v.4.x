@@ -13,10 +13,11 @@ Compatible with OpenCart 3.x versions.
     - day numbers (or period, e.g. `3-5`) required to delivery the order by the service.
 * Multilingual estimated date information block.
 * Estimate date info on the *product*, *checkout* pages and in the customer *emails*.
-* Using the [jQuery selectors](https://api.jquery.com/category/selectors/) to custom placement the estimated date block.
+* Using the [CSS selectors](https://www.w3schools.com/cssref/css_selectors.php) to custom placement the estimated date block.
 * Custom date format.
 * Powered by OpenCart Events System.
 * Does not modify system files.
+* **Journal** theme compatible.
 
 ## Live demo
 * [Admin](https://demo.ocmod.space/a/admin/index.php?route=extension/module/estimated_date) - module settings.
