@@ -28,5 +28,5 @@ Compatible with OpenCart 3.x versions.
 * [End-User License Agreement](../EULA.txt).
 
 ## Download
-* [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=45684).
+* **[OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=45684)**.
 
