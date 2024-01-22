@@ -1,5 +1,11 @@
 # Change log
 
+## [1.1.1] - 2024-01-22:
+### Changed
+- Journal 3 compatibility was moved to the separate addon.
+### Fixed
+- Summernote CSS style compatibility with the OC 3.x version older than `3.0.3.8`.
+
 ## [1.1.0] - 2023-12-11:
 ### Added
 - Ability to insert the message almost on every page.
