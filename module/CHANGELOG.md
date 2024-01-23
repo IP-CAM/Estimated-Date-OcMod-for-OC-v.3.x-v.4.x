@@ -1,5 +1,9 @@
 # Change log
 
+## [1.1.2] - 2024-01-22:
+### Fixed
+- PHP 8.1+ compatibility (PHP Unknown:  htmlentities(): Passing null to parameter #2 ($flags) of type int is deprecated.)
+
 ## [1.1.1] - 2024-01-22:
 ### Changed
 - Journal 3 compatibility was moved to the separate addon.
