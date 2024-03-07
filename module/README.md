@@ -1,8 +1,10 @@
 # Estimated Date
 
 ## Description
-**Estimated Date** is an OpenCart extension that disigned to display estimated date or period when an order will be dispatched or delivered.  
+**Estimated Date** is an OpenCart extension that designed to display estimated date or period when an order will be dispatched or delivered.  
 Compatible with OpenCart 3.x versions.
+
+[![Video](https://img.youtube.com/vi/WIseNlLjN7A/0.jpg)](https://www.youtube.com/watch?v=WIseNlLjN7A)
 
 ## Features
 * Calculates the estimated date of order delivery based on:
