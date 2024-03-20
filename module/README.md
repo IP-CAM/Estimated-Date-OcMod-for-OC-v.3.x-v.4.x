@@ -2,7 +2,7 @@
 
 ## Description
 **Estimated Date** is an OpenCart extension that designed to display estimated date or period when an order will be dispatched or delivered.  
-Compatible with OpenCart 3.x versions.
+Compatible with OpenCart 3.x/4.x versions.
 
 [![Video](https://img.youtube.com/vi/WIseNlLjN7A/0.jpg)](https://www.youtube.com/watch?v=WIseNlLjN7A)
 
@@ -20,7 +20,7 @@ Compatible with OpenCart 3.x versions.
     - date format (using patterns defined by [CLDR](https://www.unicode.org/reports/tr35/tr35-dates.html#Date_Field_Symbol_Table)).
 * Powered by OpenCart Events System.
 * Does not modify system files.
-* **Journal** theme compatible.
+* **Journal** theme compatibility (tested on OC3.x only).
 
 ## Live demo
 * [Admin](https://demo.ocmod.space/a/admin/index.php?route=extension/module/estimated_date) - module settings.
