@@ -1,5 +1,9 @@
 # Change log
 
+## [1.1.3] - 2024-03-21:
+### Internal
+- Minor changes.
+
 ## [1.1.2] - 2024-01-22:
 ### Fixed
 - PHP 8.1+ compatibility (PHP Unknown:  htmlentities(): Passing null to parameter #2 ($flags) of type int is deprecated.)
