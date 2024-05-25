@@ -1,5 +1,9 @@
 # Change log
 
+## [1.1.4] - 2024-05-25:
+### Fixed
+- Wrong `timezone` variable name.
+
 ## [1.1.3] - 2024-03-21:
 ### Internal
 - Minor changes.
