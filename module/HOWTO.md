@@ -5,22 +5,22 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 
 ## Install
 * Extensions → Installer → [Upload]: `estimated_date.ocmod.zip`
-* (OC4x) Extensions → Installer → #ocmod.space: estimated-date → [Install]
+* {4x} Extensions → Installer → /ocmod.space/estimated_date → [Install]
 * Extensions → Modifications → [Refresh]
-* (OC3x) Dashboard → [Developer Settings] → [Refresh]
-* (OC4x) Dashboard → [Developer Settings] → Cache → [Refresh]
-* (OC4x) Dashboard → [Developer Settings] → Theme → [Refresh]
-* Extensions → Extensions → Modules → #ocmod.space: estimated-date → [Install]
+* {3x} Dashboard → [Developer Settings] → [Refresh]
+* {4x} Dashboard → [Developer Settings] → Cache → [Refresh]
+* {4x} Dashboard → [Developer Settings] → Theme → [Refresh]
+* Extensions → Extensions → Modules → /ocmod.space/estimated_date → [Install]
 
 ## Uninstall
-* Extensions → Extensions → Modules → #ocmod.space: estimated-date → [Uninstall]
-* (OC3x) Extensions → Installer → Install History → `estimated_date.ocmod.zip` → [Uninstall]
-* (OC4x) Extensions → Installer → #ocmod.space: estimated-date → [Uninstall]
-* (OC4x) Extensions → Installer → #ocmod.space: estimated-date → [Delete]
+* Extensions → Extensions → Modules → /ocmod.space/estimated_date → [Uninstall]
+* {3x} Extensions → Installer → Install History → `estimated_date.ocmod.zip` → [Uninstall]
+* {4x} Extensions → Installer → /ocmod.space/estimated_date → [Uninstall]
+* {4x} Extensions → Installer → /ocmod.space/estimated_date → [Delete]
 * Extensions → Modifications → [Refresh]
-* (OC3x) Dashboard → [Developer Settings] → [Refresh]
-* (OC4x) Dashboard → [Developer Settings] → Cache → [Refresh]
-* (OC4x) Dashboard → [Developer Settings] → Theme → [Refresh]
+* {3x} Dashboard → [Developer Settings] → [Refresh]
+* {4x} Dashboard → [Developer Settings] → Cache → [Refresh]
+* {4x} Dashboard → [Developer Settings] → Theme → [Refresh]
 
 ## Configure
-* Extensions → Extensions → Modules → #ocmod.space: estimated-date → [Edit]
+* Extensions → Extensions → Modules → /ocmod.space/estimated_date → [Edit]
