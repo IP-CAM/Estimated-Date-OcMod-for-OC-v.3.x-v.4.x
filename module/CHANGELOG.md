@@ -1,5 +1,22 @@
 # Change log
 
+## [1.2.2] - 2024-05-31:
+### Added
+- Now it's allowed to define different product processing terms by force using data defined in the product statuses `Out of stock` of the products.
+### Internal
+- Significant code improvements.
+
+## [1.2.1] - 2024-05-27:
+### Changed
+- Handling days could be a period now, e.g., `1-3`.
+- Now it calculate individual estimated date/period for each product and the latest estimated date/period for cart/checkout.
+### Added
+- Individual estimated date/period for each product in depending on stock availability or selected `Out of stock` status.
+- The latest date or period for the cart or checkout pages (if the corresponding products are in the cart).
+- Debug options for checking calculations.
+### Internal
+- Code improvements.
+
 ## [1.1.4] - 2024-05-25:
 ### Fixed
 - Wrong `timezone` variable name.
