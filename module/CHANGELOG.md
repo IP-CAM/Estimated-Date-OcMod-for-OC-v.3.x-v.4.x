@@ -1,5 +1,9 @@
 # Change log
 
+## [1.2.3] - 2024-06-01:
+### Fixed
+- Displaying messages in emails.
+
 ## [1.2.2] - 2024-05-31:
 ### Added
 - Now it's allowed to define different product processing terms by force using data defined in the product statuses `Out of stock` of the products.
