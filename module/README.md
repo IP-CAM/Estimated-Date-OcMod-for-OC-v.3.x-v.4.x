@@ -23,6 +23,11 @@ Compatible with OpenCart 3x-4x versions.
 ## Live demo
 * [Admin](https://demo.ocmod.space/a/admin/index.php?route=extension/module/estimated_date) - module settings.
 * [Front-end](https://demo.ocmod.space/a).
+* A few products with different [i]in stock[/i] statuses.
+    - [Apple Cinema](https://demo.ocmod.space/a/component/monitor/apple-cinema) (In Stock).
+    - [Canon EOS 5D](https://demo.ocmod.space/a/camera/canon-eos-5d) (2-3 days).
+    - [iPod Touch](https://demo.ocmod.space/a/mp3-players/ipod-touch) (Pre-Order).
+    - [Samsung Galaxy Tab 10.1](https://demo.ocmod.space/a/tablet/samsung-galaxy-tab-10-1) (Out Of Stock).
 
 ## License
 * [End-User License Agreement](../EULA.txt).
