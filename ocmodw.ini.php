@@ -1,6 +1,6 @@
 <?php
 
-define('VERSION', '1.2.3');
+define('VERSION', '1.2.4');
 define('YEAR', '2024');
 
 define('AUTHOR', 'Andrii Burkatskyi');
