@@ -1,5 +1,11 @@
 # Change log
 
+## [1.2.5] - 2024-06-04:
+### Added
+- Custom separator to divide dates in a period.
+### Changed
+- Admob interface improvements.
+
 ## [1.2.4] - 2024-06-03:
 ### Changed
 - Approach to the use of `Out of stock` statuses as the kind of `In stock` statuses of products.
