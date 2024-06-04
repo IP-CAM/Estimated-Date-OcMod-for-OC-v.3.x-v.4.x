@@ -1,24 +1,24 @@
 # Estimated Date
 
 ## Description
-**Estimated Date** is an OpenCart extension designed to display the estimated delivery date of an order.  
+**Estimated Date** is an OpenCart designed to display the estimated delivery date of orders.  
 Compatible with OpenCart 3x-4x versions.
 
 [![Video](https://img.youtube.com/vi/WIseNlLjN7A/0.jpg)](https://www.youtube.com/watch?v=WIseNlLjN7A)
 
 ## Features
 * Calculates the estimated date of order delivery based on:
-    - Term for handling the order by the store.
-    - Term for deliver the order by a courier service.
-    - Ability to define different handling times for each product using their `out-of-stock` statuses.
-    - Calculations are made taking into account holidays and non-working days of both the store and the delivery service.
-* Multilingual.
+    - Store order processing term.
+    - The term needed by the courier service to deliver the package.
+* Calculations are made taking into account holidays and non-working days of both the store and the courier service.
+* Allows to define different handling times for each product, using the *Out Of Stock Status* product parameter. As a side-effect, it allows displaying different availability statuses in the product card.
 * Widely customizable and allows to define:
     - pages to display the estimated date info block (product page, cart, checkout, etc).
     - places where the block will be appear (using the [CSS selectors](https://www.w3schools.com/cssref/css_selectors.php)).
     - date format (using patterns defined by [CLDR](https://www.unicode.org/reports/tr35/tr35-dates.html#Date_Field_Symbol_Table)).
-* Does not modify system files due to using the *OC Events System*.
-* **Journal** theme compatibility.
+* Multilingual.
+* Does not modify system files.
+* Compatible with the **Journal** theme.
 
 ## Live demo
 * [Admin](https://demo.ocmod.space/a/admin/index.php?route=extension/module/estimated_date) - module settings.

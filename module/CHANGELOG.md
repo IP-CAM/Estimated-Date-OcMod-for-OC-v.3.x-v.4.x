@@ -4,7 +4,9 @@
 ### Added
 - Custom separator to divide dates in a period.
 ### Changed
-- Admob interface improvements.
+- Admin interface improvements.
+### Fixed
+- Product card *Availability* status.
 
 ## [1.2.4] - 2024-06-03:
 ### Changed
