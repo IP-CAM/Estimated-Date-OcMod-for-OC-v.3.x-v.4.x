@@ -48,9 +48,11 @@ if (isset($clo[MAKEZIP]) && $clo[MAKEZIP] !== false) {
 
 		define('XMLCODE', $basename);
 
-		$general_name = str_replace('--', '/', $basename);
+		$general_name = str_replace('--', ' | ', $basename);
 		$general_name = str_replace('-', ' ', $general_name);
+		$general_name = str_replace('_', ' ', $general_name);
 		$general_name = ucwords($general_name);
+		$general_name = str_replace(' | ', '|', $general_name);
 
 		define('GENERAL_NAME', $general_name);
 
