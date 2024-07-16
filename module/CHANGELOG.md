@@ -1,5 +1,9 @@
 # Change log
 
+## [1.3.0] - 2024-07-16:
+### Changed
+- Algorithm for changing displaying product stock status depending on the product availability and store and module parameters.
+
 ## [1.2.5] - 2024-06-04:
 ### Added
 - Custom separator to divide dates in a period.
