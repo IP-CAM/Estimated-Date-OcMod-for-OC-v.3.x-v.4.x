@@ -1,5 +1,9 @@
 # Change log
 
+## [1.3.1] - 2024-08-17:
+### Fixed
+- Localized names of stock statuses.
+
 ## [1.3.0] - 2024-07-16:
 ### Changed
 - Algorithm for changing displaying product stock status depending on the product availability and store and module parameters.
