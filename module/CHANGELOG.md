@@ -8,7 +8,7 @@
 
 ## [1.3.2] - 2024-12-04:
 ### Added
-— Ability to load script from footer or header.
+— Ability to load script from the page footer to prevent delaying the main content loading.
 
 ## [1.3.1] - 2024-08-17:
 ### Fixed
