@@ -1,5 +1,15 @@
 # Change log
 
+## [1.3.3] - 2025-02-06:
+### Fixed
+- Multilanguage.
+### Internal
+- Minor improvements.
+
+## [1.3.2] - 2024-12-04:
+### Added
+— Ability to load script from footer or header.
+
 ## [1.3.1] - 2024-08-17:
 ### Fixed
 - Localized names of stock statuses.
@@ -24,10 +34,10 @@
 ### Fixed
 - Displaying messages in emails.
 
-## [1.2.2] - 2024-05-31:
+## [1.2.2] - 2024
+## [1.3.2] - 2024-12-04:
 ### Added
-- Now it's allowed to define different product processing terms by force using data defined in the product statuses `Out of stock` of the products.
-### Internal
+— Ability to load script from footer or header.
 - Significant code improvements.
 
 ## [1.2.1] - 2024-05-27:
