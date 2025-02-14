@@ -1,5 +1,11 @@
 # Change log
 
+## [1.3.4] - 2025-02-14:
+### Fixed
+- Check for the availability of the `IntlDateFormatter` class (the `Intl` PHP module).
+- Ukrainian localisation.
+- Minor admin UI fixes.
+
 ## [1.3.3] - 2025-02-06:
 ### Fixed
 - Multilanguage.
