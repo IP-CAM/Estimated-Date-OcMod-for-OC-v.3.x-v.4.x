@@ -1,5 +1,9 @@
 # Change log
 
+## [1.3.5] - 2025-03-24:
+### Internals
+- Rearranging some files.
+
 ## [1.3.4] - 2025-02-14:
 ### Fixed
 - Check for the availability of the `IntlDateFormatter` class (the `Intl` PHP module).
