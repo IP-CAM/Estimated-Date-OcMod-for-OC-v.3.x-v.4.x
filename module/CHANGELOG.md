@@ -1,5 +1,9 @@
 # Change log
 
+## [1.3.6] - 2025-03-26:
+### Fixed
+- POI indexes calculation.
+
 ## [1.3.5] - 2025-03-24:
 ### Internals
 - Rearranging some files.
