@@ -1,5 +1,12 @@
 # Change log
 
+## [1.4.0] - 2025-03-29:
+### Added
+- OC 2.3.x compatibility.
+### Internals
+- Some changes for better OC/PHP versions cross-compatibility.
+- Improved option help entries.
+
 ## [1.3.6] - 2025-03-26:
 ### Fixed
 - POI indexes calculation.
