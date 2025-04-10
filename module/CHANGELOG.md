@@ -1,5 +1,11 @@
 # Change log
 
+## [1.4.1] - 2025-04-10:
+### Fixed
+- OC 4.x compatibility.
+### Internals
+- Minor code improvements.
+
 ## [1.4.0] - 2025-03-29:
 ### Added
 - OC 2.3.x compatibility.
