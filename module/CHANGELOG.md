@@ -1,6 +1,10 @@
 # Change log
 
-## [1.4.1] - 2025-04-10:
+## [1.5.0] - 2025-04-10:
+### Changed
+- Refined delivery calculation for out-of-stock products using Stock-Based Terms.
+- Improved compatibility with Stock Checkout and Display Stock settings.
+- Updated overriding stock status display based on handling term.
 ### Fixed
 - OC 4.x compatibility.
 ### Internals
