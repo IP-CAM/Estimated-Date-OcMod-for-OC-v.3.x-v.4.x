@@ -1,26 +1,26 @@
 # Estimated Date
 
-## Description
-The Estimated Date module for OpenCart is designed to display the estimated delivery dates of products and orders.
+The **Estimated Date** module for OpenCart provides delivery date estimations for products and orders, enhancing transparency and customer satisfaction.
 
-Compatible with OpenCart 3.x/4.x (PHP ≥ 7.x).
+Compatible with OpenCart 2.3.x (PHP 5.6) and 3.x/4.x (PHP ≥ 7.x).
 
-**Note**: The source code is encrypted for security reasons. For purchasing and licensing details, please refer to the OpenCart Marketplace link in the **Download** section below.
+Note: The source code is encrypted. For purchase and licensing information, see the OpenCart Marketplace link in the **Download** section.
 
 ## Features
-* Calculates the estimated order delivery date based on:
-  - The store's order processing time.
-  - The time required by the courier service for delivery.
-* Takes holidays and non-working days into account for both the store and the courier service.
-* Allows setting different handling times for each product using the [i]Out Of Stock Status[/i] parameter.
-  - As a side effect, it enables displaying different availability statuses on the product page.
-* Highly customizable, allowing you to define:
-  - The pages where the estimated date info block will be displayed (product page, cart, checkout, etc.).
-  - The exact placement of the block (using [CSS selectors](url=https://www.w3schools.com/cssref/css_selectors.php)).
-  - The date format (using patterns defined by [CLDR](https://www.unicode.org/reports/tr35/tr35-dates.html#Date_Field_Symbol_Table)).
-* Multilingual support.
-* Does not modify system files.
-* Compatible with the **Journal** theme.
+* Calculates the estimated delivery date based on:
+  - The store's product handling time.
+  - The courier service's delivery time.
+* Takes holidays and non-working days into account (separately for the store and the delivery company).
+* Supports dynamic handling times based on stock status using the product’s <i>Out-Of-Stock Status</i> parameter.
+  - This also enables showing alternative stock availability messages on the product page (e.g., "Warehouse").
+* Option to override the default stock status display based on delivery relevance.
+* Full control over:
+  - Where the estimated delivery block is shown (product page, cart, checkout, etc.).
+  - Precise placement using [CSS selectors](url=https://www.w3schools.com/cssref/css_selectors.php).
+  - Date format via [CLDR](https://www.unicode.org/reports/tr35/tr35-dates.html#Date_Field_Symbol_Table)).
+* Multilingual support with translation-ready interface.
+* No core file modifications.
+* Seamless compatibility with the **Journal** theme.
 
 ## Restrictions
 This module does not work and is not supported for stores using the following domain extensions: `.ru`,`.рф`,`.рус`,`.by`,`.бел`,`.su`.
