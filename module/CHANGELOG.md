@@ -1,5 +1,9 @@
 # Change log
 
+## [1.5.1] - 2025-05-23:
+### Fixed
+- union type for $output parameter in `afterModelCatalogProductGetProduct()`
+
 ## [1.5.0] - 2025-04-10:
 ### Changed
 - Refined delivery calculation for out-of-stock products using Stock-Based Terms.
