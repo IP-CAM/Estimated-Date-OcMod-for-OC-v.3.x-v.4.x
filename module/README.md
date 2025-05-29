@@ -19,7 +19,7 @@ Compatible with OpenCart 2.3.x (PHP 5.6), 3.x, and 4.x (PHP 7.x and above).
   - Precise placement using [CSS selectors](url=https://www.w3schools.com/cssref/css_selectors.php).
   - Date format via [CLDR](https://www.unicode.org/reports/tr35/tr35-dates.html#Date_Field_Symbol_Table)).
 * Multilingual support with translation-ready interface.
-* No core file modifications.
+* No core file modifications (OCMOD).
 * Seamless compatibility with the **Journal** theme.
 
 ## Restrictions
