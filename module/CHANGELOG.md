@@ -1,5 +1,9 @@
 # Change log
 
+## [1.5.2] - 2025-06-02:
+### Added
+- `Force Stock-Based Terms` option.
+
 ## [1.5.1] - 2025-05-23:
 ### Fixed
 - union type for $output parameter in `afterModelCatalogProductGetProduct()`
